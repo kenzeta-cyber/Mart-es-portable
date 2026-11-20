@@ -1,0 +1,55 @@
+========================================================================
+   MARTES MINI 🪐 - Mascota de Escritorio Inteligente (Desktop Pet)
+========================================================================
+Edición Portable Independiente // 100% Local y Privado
+
+¡Bienvenido! Has descargado a Martes, un compañero de escritorio en 
+pixel art animado, diseñado para acompañarte mientras estudias o trabajas.
+
+------------------------------------------------------------------------
+🚀 CÓMO INICIARLO
+------------------------------------------------------------------------
+Simplemente haz doble clic en:
+  👉  Martes.exe
+
+¡Y listo! No requiere instalar Python ni ningún programa adicional.
+(También se incluye 'Iniciar_Martes.bat' como lanzador alternativo).
+
+------------------------------------------------------------------------
+🎮 CONTROLES Y ACROBACIAS
+------------------------------------------------------------------------
+* ARRASTRAR: Haz clic izquierdo sostenido para mover a Martes a cualquier
+             rincón de tu pantalla.
+* CLIC IZQUIERDO: Abre su ventanita de conversación para charlar.
+* DOBLE CLIC: ¡Martes ejecutará un espectacular BACKFLIP (Mortal 360°)!
+* CLIC DERECHO: Abre el menú táctico de opciones:
+    - 🤸 Hacer Backflip (Mortal 360°)
+    - 💬 Preguntarle algo
+    - 🎨 Cambiar Paleta de color (Marte Ámbar, Verde Game Boy, Cyberpunk)
+    - 🐾 Alternar Paseo / Quieto
+    - 💤 Echarse una siesta / Despertar
+    - ❌ Salir
+* ATAJO GLOBAL: Presiona  Ctrl + Alt + M  en cualquier ventana para
+                teletransportar a Martes directo a la posición de tu ratón
+                con su expresión de sorpresa (!).
+
+------------------------------------------------------------------------
+✨ COMPORTAMIENTO Y ESTADOS DE VIDA
+------------------------------------------------------------------------
+* Mirada Inteligente: Sigue el puntero de tu ratón cuando te acercas.
+* Animación Ociosa: Cada ~25 a 45 segundos de inactividad, Martes se
+                    lucirá y hará un Backflip por su cuenta.
+* Modo Siesta: Si dejas de interactuar por un rato, cerrará sus ojos (v v)
+               y comenzará a flotar con letras 'Zzz'.
+
+------------------------------------------------------------------------
+🧠 INTELIGENCIA ARTIFICIAL
+------------------------------------------------------------------------
+* Modo Autónomo Offline: Viene equipado con un motor de personalidad
+  para responder chistes, cambiar paletas, hacer acrobacias y conversar.
+* Conexión IA Generativa Completa (Opcional): Si tienes Ollama corriendo
+  en tu PC con el modelo 'mart-es', Martes se conectará de inmediato y
+  responderá cualquier duda técnica, código o pregunta compleja.
+
+¡Disfruta de tu nuevo compañero marciano! 🪐
+========================================================================
