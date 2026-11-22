@@ -1,6 +1,6 @@
 {
-    "version": "1.1.0",
-    "notes": "🏪🎃 ¡Mayor Update v1.1.0! Llega Mart-Mart (pestañas Comprar/Vender y submenús), Tienda flotante en Escritorio, 👕 Armario, Casco de Calabaza sorpresa con ¡BOO! 🎃, Pijama Estelar con Café ☕, 👾 Aplasta el Bug (Duck-OS 3x3), 🧠 Simón Dice (venta de Fragmentos 🧩), Almacén de Flores y Configuraciones.",
-    "download_url": "https://github.com/kenzeta-cyber/mart-es-portable/releases/download/v1.1.0/Martes.exe",
+    "version": "1.1.1",
+    "notes": "🏪🐛 ¡v1.1.1! Nuevo icono pixel-art para la Tienda en Escritorio (cambia con tu paleta), apertura centrada arriba/abajo del icono, y corrección de animaciones de disfraces para requerir compra previa.",
+    "download_url": "https://github.com/kenzeta-cyber/mart-es-portable/releases/download/v1.1.1/Martes.exe",
     "online_brain_url": ""
 }
