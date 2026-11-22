@@ -1,6 +1,6 @@
 {
-    "version": "1.1.1",
-    "notes": "🏪🐛 ¡v1.1.1! Nuevo icono pixel-art para la Tienda en Escritorio (cambia con tu paleta), apertura centrada arriba/abajo del icono, y corrección de animaciones de disfraces para requerir compra previa.",
-    "download_url": "https://github.com/kenzeta-cyber/mart-es-portable/releases/download/v1.1.1/Martes.exe",
+    "version": "1.1.2",
+    "notes": "🚀🌀📦 ¡v1.1.2 Entregas Mejoradas! Al vender 2+ objetos juntos despega un cohete hacia el portal azul para cobrar; al comprar, baja un cohete desde el portal verde y deja una caja clicable junto a Martes (configurable en Ajustes).",
+    "download_url": "https://github.com/kenzeta-cyber/mart-es-portable/releases/download/v1.1.2/Martes.exe",
     "online_brain_url": ""
 }
