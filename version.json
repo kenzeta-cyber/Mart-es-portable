@@ -1,6 +1,6 @@
 {
-    "version": "1.1.5",
-    "notes": "🕹️⚡ ¡v1.1.5! Nuevo minijuego ¡Mart-It! con sprites animados en vivo: reacciona rápido a ¡PULSA!, ¡GIRA!, ¡TIRA! y ¡SALTA! con clic o teclado antes de que se acabe la barra para ganar Mart-Coins y Fragmentos.",
-    "download_url": "https://github.com/kenzeta-cyber/mart-es-portable/releases/download/v1.1.5/Martes.exe",
+    "version": "1.1.6",
+    "notes": "📌🖥️ ¡Leak v1.1.6 (rumbo a la 1.2)! Nuevo modo 'Fijar Objetos al Escritorio' para que los widgets (como la Tienda en Escritorio) se queden en el fondo sin tapar otras ventanas (clic derecho en el icono o desde Ajustes).",
+    "download_url": "https://github.com/kenzeta-cyber/mart-es-portable/releases/download/v1.1.6/Martes.exe",
     "online_brain_url": ""
 }
