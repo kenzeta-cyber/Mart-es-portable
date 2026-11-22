@@ -1,6 +1,6 @@
 {
-    "version": "1.1.3",
-    "notes": "🪟🐾 ¡v1.1.3! Ahora puedes mandar a Martes a caminar y posarse sobre la Barra de Tareas o cualquier ventana abierta (¡la sigue si la mueves!), además de un nuevo indicador visual de Quieto / Paseo (configurable en Ajustes).",
-    "download_url": "https://github.com/kenzeta-cyber/mart-es-portable/releases/download/v1.1.3/Martes.exe",
+    "version": "1.1.4",
+    "notes": "🧠💬 ¡v1.1.4! Nuevo Chip de Memoria IA (recuerda tu nombre y datos en el chat), motor de charlas offline súper mejorado (hora, calculadora, chistes, datos, estado de economía), nuevo indicador pixel-art nítido de Quieto/Paseo y corrección en Aplasta el Bug.",
+    "download_url": "https://github.com/kenzeta-cyber/mart-es-portable/releases/download/v1.1.4/Martes.exe",
     "online_brain_url": ""
 }
