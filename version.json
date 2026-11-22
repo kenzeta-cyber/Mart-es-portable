@@ -1,6 +1,6 @@
 {
-    "version": "1.1.2",
-    "notes": "🚀🌀📦 ¡v1.1.2 Entregas Mejoradas! Al vender 2+ objetos juntos despega un cohete hacia el portal azul para cobrar; al comprar, baja un cohete desde el portal verde y deja una caja clicable junto a Martes (configurable en Ajustes).",
-    "download_url": "https://github.com/kenzeta-cyber/mart-es-portable/releases/download/v1.1.2/Martes.exe",
+    "version": "1.1.3",
+    "notes": "🪟🐾 ¡v1.1.3! Ahora puedes mandar a Martes a caminar y posarse sobre la Barra de Tareas o cualquier ventana abierta (¡la sigue si la mueves!), además de un nuevo indicador visual de Quieto / Paseo (configurable en Ajustes).",
+    "download_url": "https://github.com/kenzeta-cyber/mart-es-portable/releases/download/v1.1.3/Martes.exe",
     "online_brain_url": ""
 }
